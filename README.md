@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/30n01l4mbul1ug1y/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-5-2-forms/branch/master)
 
-#### Deployment:
+#### Deployment: https://sergius92739.github.io/ahj-5.2-forms/
 
 ### Редактор списка
 
